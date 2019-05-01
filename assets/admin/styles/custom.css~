@@ -1,0 +1,17 @@
+#copy_pass {float: left !important;  width: 100% !important; }
+#genrated-pass{width: 40% !important ; float: left !important; margin-right: 10px !important; }
+.la {font-size: 20px;}
+.cursue-point {cursor: pointer;}
+.block-user{margin: 0; padding: 5px 5px; height: 27px;}
+.alert-error{ color: #ef5350; font-size: 12px;}
+.alert-success{color: #5cb85c; font-size: 12px;}
+.health-sectopn .col-lg-3{ margin-bottom: 10px;}
+.setting-frequebcy .form-group{float: left;}
+.setting-frequebcy .help-block.form-error{  font-size: 11px;}
+
+.pagination .la {font-size: 15px;}
+.pagination .active {background: #25628f; color: #fff; border: 1px solid #25628f;}
+.icon-addon.custom-serch{position: absolute;right: 26px; top: 30px; cursor: pointer;}
+.serach-company::-webkit-calendar-picker-indicator, .serach-domain::-webkit-calendar-picker-indicator {
+  display: none;
+}
